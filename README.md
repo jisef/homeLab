@@ -12,7 +12,7 @@ Configuration Files of the Lab are stored in the Repo
 - Analyse Data with "AI"
 
 ## Hardware
-### Alter Asus Laptop
+### Old Asus Laptop
 - AMD 5900X
 - 16GB RAM
 - 512 GB SSD
@@ -21,6 +21,10 @@ Configuration Files of the Lab are stored in the Repo
 - 8GB RAM
 
 ## Implementation
-Use Proxmox, Docker or NixOS
+Use Proxmox, Containers with portainer on debian/nixos
+
+## LookUp
+- CasaOS
+- uptime kuma
 
 
