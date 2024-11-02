@@ -26,5 +26,6 @@ Use Proxmox, Containers with portainer on debian/nixos
 ## LookUp
 - CasaOS
 - uptime kuma
+- https://www.youtube.com/watch?v=vQ-Eam9IZJY&list=TLPQMDIxMTIwMjQbdBHuVZ9VUg&index=2
 
 
