@@ -13,6 +13,7 @@ Configuration Files of the Lab are stored in the Repo
 - n8n
 - openvpn
 - vscode
+- wireguard
 ### Optional Goals
 - Analyse Data with "AI"
 
