@@ -1,13 +1,18 @@
 # Home Lab
 Configuration Files of the Lab are stored in the Repo
+## First Problem
+- Acces to machine from anywhere
 ## Goals
-- Host InfluxDB
+- InfluxDB
 - Minecraft Server
-- Host a Nas (TrueNas or Nextcloud)
+- TrueNAS
 - Syncthing (for markdown-notes)
-- Test Networkspeed and safe in DB
+- speedtest
 - Store Data of Temperature meassured with RbPI in InfluxDB
-- Show influxDB with Grafana
+- Grafana
+- n8n
+- openvpn
+- vscode
 ### Optional Goals
 - Analyse Data with "AI"
 
@@ -22,6 +27,10 @@ Configuration Files of the Lab are stored in the Repo
 
 ## Implementation
 Use Proxmox, Containers with portainer on debian/nixos
+- Proxmox on Server
+  - Docker
+    Services
+  - TrueNAS
 
 ## LookUp
 - CasaOS
