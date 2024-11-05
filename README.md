@@ -14,6 +14,7 @@ Configuration Files of the Lab are stored in the Repo
 - openvpn
 - vscode
 - wireguard
+- home-assistant (zigbee)
 ### Optional Goals
 - Analyse Data with "AI"
 
