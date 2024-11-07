@@ -39,5 +39,7 @@ Use Proxmox, Containers with portainer on debian/nixos
 - CasaOS
 - uptime kuma
 - https://www.youtube.com/watch?v=vQ-Eam9IZJY&list=TLPQMDIxMTIwMjQbdBHuVZ9VUg&index=2
+- GUI for managing mc servers
+
 
 
