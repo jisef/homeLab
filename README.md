@@ -3,6 +3,7 @@ Configuration Files of the Lab are stored in the Repo
 ## First Problem
 - Acces to machine from anywhere
 ## Goals
+- **nextcloud** - *(by matteo, for diverse reasons)*
 - InfluxDB
 - Minecraft Server
 - TrueNAS
