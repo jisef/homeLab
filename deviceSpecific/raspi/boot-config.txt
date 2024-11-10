@@ -1,4 +1,5 @@
-# /boot/config.txt
+# /boot/firmware/config.txt 
+# add the text into it
 
 # Disable Power LED (Red)
 dtparam=pwr_led_activelow=off
