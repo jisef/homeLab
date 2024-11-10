@@ -4,4 +4,4 @@ Laptop specific configurations
 ```
 vim /etc/systemd/logind.conf
 ```
-Uncomment `HandleLidSwitch=ignore`
+Uncomment `HandleLidSwitch=ignore` and make sure its value is `ignore`
