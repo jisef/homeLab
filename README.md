@@ -16,11 +16,11 @@ Configuration Files of the Lab are stored in the Repo
 - vscode
 - wireguard
 - home-assistant (zigbee)
-### Optional Goals
+### Optional Goals (not realistic)
 - Analyse Data with "AI"
 
 ## Hardware
-### Old Asus Laptop
+### Old Asus Zenbook
 - AMD 5900X
 - 16GB RAM
 - 512 GB SSD
@@ -29,12 +29,10 @@ Configuration Files of the Lab are stored in the Repo
 - 8GB RAM
 
 ## Implementation
-Use Proxmox, Containers with portainer on debian/nixos
+Use Proxmox
 - Proxmox on Server
-  - Docker
-    - https://hub.docker.com/r/twingate/kubernetes-operator
-    - 
-  - TrueNAS
+  - Containers
+  - VMs
 
 ## LookUp
 - CasaOS
