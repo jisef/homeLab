@@ -51,6 +51,3 @@ Use Proxmox
 - uptime kuma
 - https://www.youtube.com/watch?v=vQ-Eam9IZJY&list=TLPQMDIxMTIwMjQbdBHuVZ9VUg&index=2
 - GUI for managing mc servers
-
-
-
