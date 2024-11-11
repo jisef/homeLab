@@ -1,7 +1,18 @@
-# Home Lab
+# Home Lab Config
 Configuration Files of the Lab are stored in the Repo
+
+## Table of Content
+- [Goals](#goals)
+  - [Dreams](#dreams)
+- [Hardware](#hardware)
+  - [Asus Zenbook](#old-asus-zenbook)
+  - [ Raspi 5](#raspberry-pi-5)
+- [Implementation](#implementation)
+- [References](#references)
+
 ## First Problem
 - Acces to machine from anywhere
+
 ## Goals
 - **nextcloud** - *(by matteo, for diverse reasons)*
 - InfluxDB
@@ -16,7 +27,8 @@ Configuration Files of the Lab are stored in the Repo
 - vscode
 - wireguard
 - home-assistant (zigbee)
-### Optional Goals (not realistic)
+
+### Dreams
 - Analyse Data with "AI"
 
 ## Hardware
@@ -34,7 +46,7 @@ Use Proxmox
   - Containers
   - VMs
 
-## LookUp
+## References
 - CasaOS
 - uptime kuma
 - https://www.youtube.com/watch?v=vQ-Eam9IZJY&list=TLPQMDIxMTIwMjQbdBHuVZ9VUg&index=2
