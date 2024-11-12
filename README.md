@@ -43,6 +43,7 @@ Configuration Files of the Lab are stored in the Repo
 - AMD 5900X
 - 16GB RAM
 - 512 GB SSD
+- IP: 192.168.99.2
 
 ### Raspberry Pi 5
 
@@ -51,11 +52,13 @@ Configuration Files of the Lab are stored in the Repo
 
 ## Implementation
 
-Use Proxmox
+### Proxmox
 
 - Proxmox on Server
   - Containers
   - VMs
+- TrueNAS
+- HomeAssistent
 
 ## References
 
