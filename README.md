@@ -55,7 +55,7 @@ Configuration Files of the Lab are stored in the Repo
 ### Proxmox
 
 - Proxmox on Server
-  - Containers
+  - Alpine Linux for Containers
   - VMs
 - TrueNAS
 - HomeAssistent
